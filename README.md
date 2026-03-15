@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Robson+Lima+%F0%9F%91%8B;Master+Android+Developer+%26+Tech+Lead;%7C+Kotlin+%7C+Java+%7C+Clean+Architecture+%7C;%7C+Building+apps+that+are+a+joy+to+maintain.+%7C)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Robson+Lima+%F0%9F%91%8B;Master+Android+Developer+%26+Tech+Lead;%7C+Kotlin+%7C+Java+%7C+Clean+Architecture+%7C;%7C+BBuilding+apps+that+are+a+joy+to+maintain.+%7C)](https://git.io/typing-svg)
 
 </div>
 
