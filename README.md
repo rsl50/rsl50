@@ -98,20 +98,6 @@ Mais de 16 anos de  experiência em desenvolvimento de software com background e
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rsl50/rsl50/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rsl50/rsl50/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/rsl50/rsl50/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📫 Connect / Contato
 
 <div align="center">
